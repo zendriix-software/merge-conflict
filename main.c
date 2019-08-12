@@ -5,11 +5,10 @@ Initial Function()
   //Sample Code
 }
 
-Initial Function2()
+feaature2()
 {
- //Sample Code
+  //Sample Code for Feature 2
 }
-
 
 
 }
