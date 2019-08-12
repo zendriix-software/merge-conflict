@@ -4,6 +4,7 @@ Initial Function()
 {
   //Sample Code
 }
+
 Initial Function2()
 {
   //Sample Code
@@ -20,4 +21,13 @@ Security Patch()
 {
  //Patch Code Applied
 }
+
+
+feaature2()
+{
+  //Sample Code for Feature 2
+}
+
+
+
 }
